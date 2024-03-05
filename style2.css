@@ -1,0 +1,209 @@
+*
+{
+    margin-left:0px;
+    margin-right:0px;
+}
+
+#xyz{
+    color:black;
+    font-size:40px;
+    margin-top:0px;
+    padding:none;
+}
+a{
+    
+    color:black;
+    font-size:25px;
+    text-decoration: none;
+    margin:15px;
+    height:0px;
+    margin-top:0px;
+
+}
+header{
+    display:flex;
+    color:black;
+    font-size:30px;
+}
+#abc{
+    height:10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#pqr{
+    margin-left:550px;
+    color:black;
+    margin-top:0px;
+    margin-right:100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#a{
+    display:inline-block;
+    width:200px;
+    height:200px;
+    margin-left:10px;
+    color:rgb(128, 128, 128);
+    font-size:18px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.b{
+    background-image:linear-gradient(to right,purple, blue,rgba(255, 0, 0, 0.16) );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top:0px;
+    margin-right:0px;
+    font-size:35px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+.c{
+    color:rgb(8, 5, 48);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:0px;
+    font-size:22px;
+}
+.main{
+    display: flex;
+    justify-content:space-around;
+    margin-top:80px;
+    
+
+
+}
+.d{
+    margin-right:50px;
+    margin-left:300px;
+}
+   
+.img{
+    height:250px;
+}
+.e{
+    color:black;
+    background-color: rgb(255, 225, 0);
+    display:flex;
+    justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size:20px;
+    border-radius:8px;
+
+}
+.f{
+    display:flex;
+    justify-content: center;
+    align-items:center; 
+    margin-top:150px;   
+}
+.img1{
+    height:40px;
+}
+.img2{
+    height:30px;
+}
+.img3{
+    margin-top:10px;
+}
+.img4{
+    height:35px;
+}
+.gun{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    font-size:20px;
+    padding-top:10px;
+
+}
+.verma{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.imgg{
+    height:350px;
+    border-radius: 3%;
+}
+.edit{
+    padding-top:90px;
+    margin-right:70px;
+}
+.abcd{
+    font-size:25px;
+}
+.abcd{
+    padding-top:50px;
+}
+.snap{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:70px;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.room{
+
+    display:flex;
+    justify-content: space-around;
+}
+.main0{
+    display:flex;
+    justify-content:center;
+    padding-right:70px;
+
+}
+.main1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:250px;
+    height:250px;
+    box-shadow: 3px 5px 5px 5px grey;
+    border-bottom-color:5px blue;
+    margin-right:30px;
+    border-radius: 2%;
+}
+.main2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:250px;
+    height:250px;
+    box-shadow: 3px 5px 5px 5px grey;
+    margin-right:30px;
+    border-radius: 2%;
+
+}
+.main3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:250px;
+    height:250px;
+    box-shadow: 3px 5px 5px 5px grey;
+    margin-right:30px;
+    border-radius: 2%;
+}
+.main4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:250px;
+    height:250px;
+    box-shadow: 3px 5px 5px 5px grey;
+    border-radius: 2%;
+}
+a:hover {
+    color: black;
+}
+
+.active {
+    color: black;
+    text-decoration: underline;
+
+}
