@@ -234,16 +234,20 @@ a:hover {
     border:solid thick blue;
     height:300px;
     width:400px;
-    display: flex;
     justify-content: center;
     align-items: center;
     margin-right:80px;
+    padding-top:20px;
     
+}
+#edit{
+    padding-top:20px;
 }
 .per{
     border:solid thick blue;
     height:300px;
     width:400px;
+
 }
 .gunjan{
     display:flex;
