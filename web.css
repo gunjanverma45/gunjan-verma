@@ -1,0 +1,108 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+position: relative;
+}
+#edit{
+  width:100%;
+  height:100%;
+}
+.head1{
+width:100%;
+height:60px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.head{
+    color:black;
+    display: flex;
+    justify-content: space-evenly;
+    width:1000px;
+    height:60px;
+    align-items: center;
+    background-color:white;
+}
+.ryt{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    width:550px;
+    height:60px;
+    padding-left:220px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.phone{
+    padding-left:50px;
+}
+#logo{
+    height:80px;
+    width:80px;
+}
+.main{
+    display:flex;
+align-items: center;
+width:500px;
+
+}
+.main1{
+    padding:10px 0 10px 40px;
+    
+}
+#text{
+    font-size:25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left:10px;
+}
+.content{
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  width:100%;
+  background-color:rgb(7, 5, 58);
+  color:white;
+}
+.small{
+  
+  width:900px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:18px;
+}
+.section{
+  background-image:linear-gradient(to bottom ,rgb(7, 5, 58)10%,rgb(112, 4, 112));
+  width:100%;
+  height:635px;
+}
+#style{
+  width:400px;
+  height:400px;
+  border-radius:50%;
+  box-shadow: 7px 7px 50px 1px rgb(84, 82, 82);
+  
+}
+.section1{
+  display: flex;
+  justify-content: end;
+  padding:120px 50px 0 0;
+}
+.below{
+  background-color:rgb(112, 4, 112);
+  color:black;
+  display: flex;
+  justify-content: space-evenly;
+  padding:20px 0 20px 0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 7px 7px 50px 1px black;
+}
+.content1{
+  width:100%;
+  height:500px;
+}
